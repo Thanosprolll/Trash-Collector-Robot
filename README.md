@@ -9,4 +9,5 @@ File Python được dùng để kết nối bluetooth HC-06 trên arduino với
 4. Khởi động code, cài python -m pip install pyserial nếu báo lỗi
 5. Connect ở 9600 baud rate.
 <img width="564" height="499" alt="Screenshot 2026-09-12 165542" src="https://github.com/user-attachments/assets/995e99b8-930c-4d3f-837f-f12b0c0abbdd" />
+
 Ảnh app điều khiển bluetooth trên laptop
