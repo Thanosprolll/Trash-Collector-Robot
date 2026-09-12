@@ -1,0 +1,8 @@
+# Robot-nh-t-r-c
+Đây là project mô hình robot thu rác tự động File Python được dùng để kết nối bluetooth HC-06 trên arduino với laptop để điều khiển và kiểm tra robot Để kết nối thành công cần thực hiện các bước như sau:
+
+Tìm bluetooth HC-06 trên laptop, sẽ có 2 thiết bị chọn thiết bị yêu cầu mật khẩu, điền mật khẩu 1234
+Vào device manager tìm COM có trong driver ví dụ COM4, COM5
+Mở Python code và chỉnh đúng COM của HC-06 trên config
+Khởi động code, cài python -m pip install pyserial nếu báo lỗi
+Connect ở 9600 baud rate.
