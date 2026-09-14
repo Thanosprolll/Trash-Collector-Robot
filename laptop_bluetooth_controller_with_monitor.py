@@ -14,7 +14,7 @@ Setup:
   3. Install pyserial:  py -m pip install pyserial
   4. Change COM_PORT below.
 
-Controls:
+Controls: (Capital is required)
   W / Up Arrow      Forward
   S / Down Arrow    Backward
   A / Left Arrow    Turn left
